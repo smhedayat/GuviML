@@ -6,3 +6,4 @@ print('The sum is', c)
 hello = "Hello there!"
 print(hello)
 d = a+b+b
+x = 123456
