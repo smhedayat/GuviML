@@ -1,5 +1,8 @@
 a = 3
-print(a)
+print("The variable is", a)
 b = 4
 c = a+b
-print(c)
+print('The sum is', c)
+hello = "Hello there!"
+print(hello)
+d = a+b+b
