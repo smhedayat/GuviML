@@ -7,3 +7,5 @@ hello = "Hello there!"
 print(hello)
 d = a+b+b
 x = 123456
+
+print("Hey there!")
